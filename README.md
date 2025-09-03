@@ -18,26 +18,26 @@ It allows users (librarians/members) to manage books: **Add, Borrow, Return, Sea
 
 ## 📸 Screenshots
 
-### Login pagq
-![Main GUI](screenshots/GUI_Login_Page.png)
+### Login page
+![LOGIN PAGE](screenshots/LOGIN_PAGE.png)
 
 ### SignUp Page
-![Main GUI](screenshots/SIGN_UP.png)
+![SIGN UP](screenshots/SIGN_UP.png)
 
 ### Main GUI
 ![Main GUI](screenshots/MAIN_GUI.png)
 
 ### Add Book
-![Borrow Book](screenshots/ADD_BOOK.png)
+![Add Book](screenshots/ADD_BOOK.png)
 
 ### Borrow Book
-![Add Book](screenshots/BORROW_BOOK.png)
+![Borrow Book](screenshots/BORROW_BOOK.png)
 
 ### Search Book
 ![Search Book](screenshots/SEARCH_BOOK.png)
 
 ### Return Book
-![Main GUI](screenshots/RETURN_BOOK.png)
+![Return Book](screenshots/RETURN_BOOK.png)
 
 ###
 
