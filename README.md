@@ -93,7 +93,7 @@ CREATE TABLE users (
 
 -- Insert default admin
 INSERT INTO users (username, password) VALUES ('admin', 'admin123');
-2️⃣ Configure Database in Code
+### 2️⃣ Configure Database in Code
 In LibraryGUI.java, update DB credentials:
 
 java
@@ -101,7 +101,7 @@ Copy code
 public static final String DB_URL  = "jdbc:mysql://localhost:3306/librarydb";
 public static final String DB_USER = "root";           // your MySQL username
 public static final String DB_PASS = "your_password";  // your MySQL password
-3️⃣ Run the Project
+### 3️⃣ Run the Project
 Compile and run:
 
 bash
